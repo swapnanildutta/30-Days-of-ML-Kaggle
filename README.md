@@ -19,3 +19,7 @@
 > Advancing from the previous notebook, here I get to use some predefined and also custom functions and perform arithmetic operations but using functions and nested functions.
 
 ### Day 4
+
+> All about the Boolean data type, which allows you to represent “`True`” and “`False`” in Python code. This will provide a strong foundation for understanding how to write conditional statements, which are used to modify how code runs based on whether certain conditions hold.
+
+### Day 5
