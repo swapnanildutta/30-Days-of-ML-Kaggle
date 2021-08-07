@@ -23,3 +23,9 @@
 > All about the Boolean data type, which allows you to represent “`True`” and “`False`” in Python code. This will provide a strong foundation for understanding how to write conditional statements, which are used to modify how code runs based on whether certain conditions hold.
 
 ### Day 5
+
+> Python lists to store ordered collections of values. Lists are incredibly useful when writing code to manage several related variables.
+>
+> Efficient way to repeatedly execute code. With list comprehensions, you’ll often be able to condense code that would have taken several lines to just a single line!
+
+### Day 6
