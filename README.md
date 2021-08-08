@@ -26,7 +26,7 @@
 
 > Python lists to store ordered collections of values. Lists are incredibly useful when writing code to manage several related variables.
 >
-> Efficient way to repeatedly execute code. With list comprehensions, you’ll often be able to condense code that would have taken several lines to just a single line!
+> Efficient way to repeatedly execute code. With list comprehensions, you'll often be able to condense code that would have taken several lines to just a single line!
 
 ### Day 6
 
