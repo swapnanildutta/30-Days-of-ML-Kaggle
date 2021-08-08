@@ -9,6 +9,8 @@
 > ```
 >
 > ,and then restructuring the predicted values with the `PassengerIds` as a *DataFrame* and storing them in a `.csv` file for submission.
+>
+> This was just trying out some ML.
 
 ### Day 2
 
