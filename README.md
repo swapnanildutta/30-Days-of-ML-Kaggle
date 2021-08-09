@@ -35,3 +35,7 @@
 > Strings, which is a data type that is useful for representing human-readable data, such as text. A dictionary is another new data type, that is similar to a list, but with important differences that makes it incredibly useful in its own right.
 
 ### Day 7
+
+> One of the best things about Python is the vast number of high-quality custom libraries that have been written for it. Here, you can try out various other pre-written functions to use during various computation, like in this *[.ipnyb](Day-7\exercise-working-with-external-libraries.ipynb)* file.
+
+### Day 8
