@@ -52,4 +52,10 @@
 >
 > Once you have built a model, how good is it? How exactly should you judge how close the model's predictions are to what actually happened? You'll use model validation to measure the quality of your model.
 
-### Day 10
+### [Day 10](Day-10)
+
+> You'll learn about the fundamental concepts of underfitting and overfitting. Then you'll apply these ideas to gain a deep understanding of why some models succeed and others fail. This knowledge will make you much more efficient at discovering highly accurate machine learning models.
+>
+> You'll learn all about random forests, another machine learning model you can add to your growing toolkit. Then, put your new knowledge to use immediately by building your own random forest model that exceeds the performance of the models that you've built so far!
+
+### Day 11
