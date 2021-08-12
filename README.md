@@ -1,5 +1,8 @@
 # 30-Days-of-ML-Kaggle
 
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
 ### [Day 1](Day-1)
 
 > Reading data from `.csv` files using [pandas](https://pandas.pydata.org/) *Dataframes*, finding % of women who survived the Titanic and then using [RandomForestClassifier](https://en.wikipedia.org/wiki/Random_forest), making a model to predict the survival of the female passengers using features like
