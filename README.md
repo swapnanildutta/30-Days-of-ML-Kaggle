@@ -61,4 +61,14 @@
 >
 > You'll learn all about random forests, another machine learning model you can add to your growing toolkit. Then, put your new knowledge to use immediately by building your own random forest model that exceeds the performance of the models that you've built so far!
 
-### Day 11
+### [Day 11](Day-11)
+
+> One way to further improve your skills is to participate in machine learning competitions.
+
+### [Day 12](Day-12)
+
+> Most machine learning libraries (including scikit-learn) give an error if you try to build a model using data with missing values. You'll learn about three different approaches for dealing with missing values in your data.
+>
+> A categorical variable is a variable that takes only a limited number of values, and it's common to encounter them in data. Learn how to work with them.
+
+### Day 13
