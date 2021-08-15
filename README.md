@@ -71,4 +71,10 @@
 >
 > A categorical variable is a variable that takes only a limited number of values, and it's common to encounter them in data. Learn how to work with them.
 
-### Day 13
+### [Day 13](Day-13)
+
+> You'll learn a simple way to keep your data preprocessing and modeling code organized.
+>
+> You're already a bit familiar with model validation, so you''ll explore a more advanced validation technique that gives a better measure of model performance.
+
+### Day 14
